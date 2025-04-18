@@ -44,9 +44,20 @@ def send_scheduled_message():
     try:
         current_time = datetime.now(TIMEZONE)
         logger.info(f"Enviando mensagem agendada às {current_time.strftime('%H:%M:%S')}")
-        bot.send_message(CHAT_ID, f"Hello World - Horário atual: {current_time.strftime('%H:%M:%S')}")
+        
+        # Separa os IDs por vírgula e remove espaços em branco
+        chat_ids = [id.strip() for id in CHAT_ID.split(',')]
+        
+        # Envia a mensagem para cada ID
+        for chat_id in chat_ids:
+            try:
+                bot.send_message(chat_id, f"Hello World - Horário atual: {current_time.strftime('%H:%M:%S')}")
+                logger.info(f"Mensagem enviada com sucesso para o chat_id: {chat_id}")
+            except Exception as e:
+                logger.error(f"Erro ao enviar mensagem para o chat_id {chat_id}: {str(e)}")
+                
     except Exception as e:
-        logger.error(f"Erro ao enviar mensagem: {str(e)}")
+        logger.error(f"Erro ao processar envio de mensagens: {str(e)}")
 
 def main():
     try:

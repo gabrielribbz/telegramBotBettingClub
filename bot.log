@@ -341,3 +341,73 @@ TypeError: Only timezones from the pytz library are supported
 2025-04-17 22:12:00,818 - Job "Enviar mensagem diária (trigger: cron[hour='22', minute='12'], next run at: 2025-04-18 22:12:00 -03)" executed successfully
 2025-04-17 22:12:21,280 - Scheduler has been shut down
 2025-04-17 22:12:21,283 - Bot encerrado
+2025-04-17 22:24:03,240 - Iniciando bot...
+2025-04-17 22:24:03,857 - Bot conectado: BettingClubLittleEvils_bot
+2025-04-17 22:24:03,869 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-04-17 22:24:03,872 - Added job "Enviar mensagem diária" to job store "default"
+2025-04-17 22:24:03,872 - Scheduler started
+2025-04-17 22:24:03,873 - Mensagem agendada para 22:24 (horário de São Paulo)
+2025-04-17 22:24:16,789 - Scheduler has been shut down
+2025-04-17 22:24:16,790 - Bot encerrado
+2025-04-17 22:24:20,363 - Iniciando bot...
+2025-04-17 22:24:21,044 - Bot conectado: BettingClubLittleEvils_bot
+2025-04-17 22:24:21,060 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-04-17 22:24:21,066 - Added job "Enviar mensagem diária" to job store "default"
+2025-04-17 22:24:21,066 - Scheduler started
+2025-04-17 22:24:21,068 - Mensagem agendada para 22:25 (horário de São Paulo)
+2025-04-17 22:25:00,011 - Running job "Enviar mensagem diária (trigger: cron[hour='22', minute='25'], next run at: 2025-04-17 22:25:00 -03)" (scheduled at 2025-04-17 22:25:00-03:00)
+2025-04-17 22:25:00,014 - Enviando mensagem agendada às 22:25:00
+2025-04-17 22:25:00,813 - Job "Enviar mensagem diária (trigger: cron[hour='22', minute='25'], next run at: 2025-04-18 22:25:00 -03)" executed successfully
+2025-04-17 22:26:47,498 - Scheduler has been shut down
+2025-04-17 22:26:47,499 - Bot encerrado
+2025-04-17 22:26:50,723 - Iniciando bot...
+2025-04-17 22:26:51,399 - Bot conectado: BettingClubLittleEvils_bot
+2025-04-17 22:26:51,404 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-04-17 22:26:51,406 - Added job "Enviar mensagem diária" to job store "default"
+2025-04-17 22:26:51,406 - Scheduler started
+2025-04-17 22:26:51,407 - Mensagem agendada para 22:27 (horário de São Paulo)
+2025-04-17 22:27:00,009 - Running job "Enviar mensagem diária (trigger: cron[hour='22', minute='27'], next run at: 2025-04-17 22:27:00 -03)" (scheduled at 2025-04-17 22:27:00-03:00)
+2025-04-17 22:27:00,010 - Enviando mensagem agendada às 22:27:00
+2025-04-17 22:27:00,829 - Job "Enviar mensagem diária (trigger: cron[hour='22', minute='27'], next run at: 2025-04-18 22:27:00 -03)" executed successfully
+2025-04-17 22:29:36,643 - Scheduler has been shut down
+2025-04-17 22:29:36,643 - Bot encerrado
+2025-04-17 22:30:25,382 - Iniciando bot...
+2025-04-17 22:30:26,028 - Bot conectado: BettingClubLittleEvils_bot
+2025-04-17 22:30:26,032 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-04-17 22:30:26,033 - Added job "Enviar mensagem diária" to job store "default"
+2025-04-17 22:30:26,033 - Scheduler started
+2025-04-17 22:30:26,034 - Mensagem agendada para 22:31 (horário de São Paulo)
+2025-04-17 22:31:00,008 - Running job "Enviar mensagem diária (trigger: cron[hour='22', minute='31'], next run at: 2025-04-17 22:31:00 -03)" (scheduled at 2025-04-17 22:31:00-03:00)
+2025-04-17 22:31:00,011 - Enviando mensagem agendada às 22:31:00
+2025-04-17 22:31:00,738 - Job "Enviar mensagem diária (trigger: cron[hour='22', minute='31'], next run at: 2025-04-18 22:31:00 -03)" executed successfully
+2025-04-17 22:32:02,594 - Scheduler has been shut down
+2025-04-17 22:32:02,594 - Bot encerrado
+2025-04-17 22:32:08,682 - Iniciando bot...
+2025-04-17 22:32:09,344 - Bot conectado: BettingClubLittleEvils_bot
+2025-04-17 22:32:09,347 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-04-17 22:32:09,349 - Added job "Enviar mensagem diária" to job store "default"
+2025-04-17 22:32:09,349 - Scheduler started
+2025-04-17 22:32:09,350 - Mensagem agendada para 22:31 (horário de São Paulo)
+2025-04-17 22:32:27,616 - Scheduler has been shut down
+2025-04-17 22:32:27,617 - Bot encerrado
+2025-04-17 22:32:36,766 - Iniciando bot...
+2025-04-17 22:32:37,440 - Bot conectado: BettingClubLittleEvils_bot
+2025-04-17 22:32:37,456 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-04-17 22:32:37,460 - Added job "Enviar mensagem diária" to job store "default"
+2025-04-17 22:32:37,460 - Scheduler started
+2025-04-17 22:32:37,462 - Mensagem agendada para 22:33 (horário de São Paulo)
+2025-04-17 22:33:00,007 - Running job "Enviar mensagem diária (trigger: cron[hour='22', minute='33'], next run at: 2025-04-17 22:33:00 -03)" (scheduled at 2025-04-17 22:33:00-03:00)
+2025-04-17 22:33:00,008 - Enviando mensagem agendada às 22:33:00
+2025-04-17 22:33:00,827 - Job "Enviar mensagem diária (trigger: cron[hour='22', minute='33'], next run at: 2025-04-18 22:33:00 -03)" executed successfully
+2025-04-17 22:34:31,485 - Scheduler has been shut down
+2025-04-17 22:34:31,485 - Bot encerrado
+2025-04-17 22:34:36,603 - Iniciando bot...
+2025-04-17 22:34:37,277 - Bot conectado: BettingClubLittleEvils_bot
+2025-04-17 22:34:37,281 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-04-17 22:34:37,283 - Added job "Enviar mensagem diária" to job store "default"
+2025-04-17 22:34:37,283 - Scheduler started
+2025-04-17 22:34:37,284 - Mensagem agendada para 22:35 (horário de São Paulo)
+2025-04-17 22:35:00,005 - Running job "Enviar mensagem diária (trigger: cron[hour='22', minute='35'], next run at: 2025-04-17 22:35:00 -03)" (scheduled at 2025-04-17 22:35:00-03:00)
+2025-04-17 22:35:00,008 - Enviando mensagem agendada às 22:35:00
+2025-04-17 22:35:00,804 - Mensagem enviada com sucesso para o chat_id: 6809356347
+2025-04-17 22:35:01,192 - Mensagem enviada com sucesso para o chat_id: 6481496106
