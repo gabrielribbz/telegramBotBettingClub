@@ -411,3 +411,6 @@ TypeError: Only timezones from the pytz library are supported
 2025-04-17 22:35:00,008 - Enviando mensagem agendada às 22:35:00
 2025-04-17 22:35:00,804 - Mensagem enviada com sucesso para o chat_id: 6809356347
 2025-04-17 22:35:01,192 - Mensagem enviada com sucesso para o chat_id: 6481496106
+2025-04-17 22:35:01,194 - Job "Enviar mensagem diária (trigger: cron[hour='22', minute='35'], next run at: 2025-04-18 22:35:00 -03)" executed successfully
+2025-04-17 22:38:38,365 - Scheduler has been shut down
+2025-04-17 22:38:38,368 - Bot encerrado
