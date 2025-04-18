@@ -51,10 +51,16 @@ def send_scheduled_message():
         # Envia a mensagem para cada ID
         for chat_id in chat_ids:
             try:
+                # Envia a mensagem de texto
                 bot.send_message(chat_id, f"Hello World - Horário atual: {current_time.strftime('%H:%M:%S')}")
-                logger.info(f"Mensagem enviada com sucesso para o chat_id: {chat_id}")
+                
+                # Envia o arquivo CSV
+                with open('predicted_2025-04-18.csv', 'rb') as csv:
+                    bot.send_document(chat_id, csv, caption="Aqui está o arquivo CSV solicitado")
+                
+                logger.info(f"Mensagem e arquivo CSV enviados com sucesso para o chat_id: {chat_id}")
             except Exception as e:
-                logger.error(f"Erro ao enviar mensagem para o chat_id {chat_id}: {str(e)}")
+                logger.error(f"Erro ao enviar mensagem/arquivo para o chat_id {chat_id}: {str(e)}")
                 
     except Exception as e:
         logger.error(f"Erro ao processar envio de mensagens: {str(e)}")

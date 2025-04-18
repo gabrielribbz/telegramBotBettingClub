@@ -1,0 +1,21 @@
+Player,Name_abbreviation,Team,API Projected Value,API Recommended Side,Streak,Streak Type,Line,Over Line,Under Line,ML Strikeout Line,ML Predict Value,ML Recommend Side,ML Confidence Percentage,Pitcher 2023
+Logan Webb,webblo,SFG,5.28,under,1,under,5.5,1.65,2.15,5.5,5.810763781036861,Over,76.8923621896314,True
+Bryan Woo,woobr,SEA,5.15,over,4,over,4.5,2.15,1.65,4.5,4.90211171583242,Over,75.97888284167581,True
+Yoshinobu Yamamoto,yamamyo,LAD,5.4,under,1,over,5.5,1.72,2.05,5.5,5.008022777760466,Under,75.08022777760466,False
+Drew Rasmussen,rasmudr,TBR,4.46,under,1,over,5.5,1.98,1.78,5.5,2.2833083507285616,Under,47.83308350728562,True
+Bowden Francis,francbo,TOR,5.54,over,2,over,4.5,1.65,2.15,4.5,3.3719910164075126,Under,68.71991016407513,True
+David Peterson,peterda,NYM,4.75,under,2,under,5.5,2.15,1.65,5.5,4.911830598133565,Under,74.11830598133565,True
+Cade Povich,povicca,BAL,5.21,over,2,under,4.5,1.91,1.83,4.5,4.122404361208563,Under,76.22404361208564,False
+Cole Ragans,raganco,KCR,6.86,under,3,over,7.5,2.0,1.75,7.5,6.061410539977658,Under,65.61410539977658,True
+Martin Perez,perezma,CHW,3.89,under,1,over,4.5,1.8,1.93,4.5,3.9537136159230846,Under,74.53713615923085,True
+Carmen Mlodzinski,mlodzca,PIT,4.08,over,3,over,3.5,1.75,2.0,3.5,1.0527776504734954,Under,55.52777650473496,True
+Chris Paddack,paddach,MIN,4.03,under,1,over,4.5,2.27,1.6,4.5,4.968953925134088,Over,75.31046074865912,False
+Carlos Rodon,rodonca,NYY,6.04,under,2,over,6.5,2.02,1.75,6.5,6.010538327964718,Under,75.10538327964719,True
+Bryce Elder,elderbr,ATL,4.13,under,2,under,4.5,2.07,1.7,4.5,3.9351137329753714,Under,74.35113732975371,True
+Sandy Alcantara,alcansa,MIA,4.2,under,2,under,4.5,1.78,1.98,4.5,0.002644956196755175,Under,35.02644956196755,True
+Miles Mikolas,mikolmi,STL,3.25,under,1,over,3.5,1.78,1.98,3.5,3.8702921311093017,Over,76.29707868890698,True
+Tyler Anderson,anderty,LAA,4.27,under,2,over,4.5,1.6,2.25,4.5,4.8580863928868805,Over,76.4191360711312,True
+Corbin Burnes,burneco,ARI,5.31,under,2,under,5.5,2.15,1.65,5.5,6.983970275900332,Over,65.16029724099668,True
+Freddy Peralta,peralfr,MIL,6.63,over,2,under,6.5,1.75,2.02,6.5,6.646476065630897,Over,78.53523934369103,True
+Andrew Abbott,abbotan,CIN,4.41,under,1,over,4.5,1.8,1.95,4.5,4.91156631404072,Over,75.8843368595928,True
+Colin Rea,reaco,CHC,3.57,over,1,over,3.5,2.0,1.75,3.5,3.310742608859162,Under,78.10742608859162,True
